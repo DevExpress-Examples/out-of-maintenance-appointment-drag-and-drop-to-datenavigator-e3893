@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/DragDropDateNavigator/Form1.cs) (VB: [Form1.vb](./VB/DragDropDateNavigator/Form1.vb))
+* [Program.cs](./CS/DragDropDateNavigator/Program.cs) (VB: [Program.vb](./VB/DragDropDateNavigator/Program.vb))
+<!-- default file list end -->
 # Appointment Drag-and-Drop to DateNavigator
 
 
